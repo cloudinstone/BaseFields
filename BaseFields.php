@@ -2,15 +2,15 @@
 /**
  * Base Fields Class
  *
- * Verison: 0.2
+ * Verison: 0.3
  *
  * @since 0.2 Added checkboxes field.
  *
  * Author: Cloud Stone <cloudinstone@gmail.com>
- * License: GPLv2 or late
+ * License: GPLv2 or later
  */
 
-namespace SC_Reward;
+namespace Cloudinstone;
 
 class BaseFields {
 	protected $wrap_type = 'empty';
