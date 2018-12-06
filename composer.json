@@ -1,0 +1,10 @@
+{
+    "name": "cloudinstone/base-fields",
+    "authors": [
+        {
+            "name": "Cloud Stone",
+            "email": "cloudinstone@gmail.com"
+        }
+    ],
+    "require": {}
+}
